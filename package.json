@@ -116,6 +116,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.33.1",
     "@antfu/ni": "^0.18.8",
+    "@nuxt/kit": "^3.0.0",
     "@types/node": "^18.11.13",
     "@types/resolve": "^1.20.2",
     "@vueuse/metadata": "^9.6.0",
